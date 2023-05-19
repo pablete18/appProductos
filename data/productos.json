@@ -1,0 +1,30 @@
+[
+   {
+      "ID": 1,
+      "marca": "chango",
+      "categoria": "azucar",
+      "precio": 100,
+      "stock": true
+   },
+   {
+      "ID": 3,
+      "marca": "toro",
+      "categoria": "vino",
+      "precio": 150,
+      "stock": false
+   },
+   {
+      "ID": 4,
+      "marca": "manaos",
+      "categoria": "gaseosa",
+      "precio": "1000",
+      "stock": true
+   },
+   {
+      "ID": 5,
+      "marca": "dos hermanos",
+      "categoria": "arroz",
+      "precio": "350",
+      "stock": true
+   }
+]
